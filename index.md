@@ -7,7 +7,7 @@ title: Battle Royale - Miscreated Mod
 
 Feel free to jump into a test server, the mod will be automatically downloaded.
 
-[Test serverjoin](steam://run/299740/connect/+connect 31.204.131.13 64280)
+{% include button.html url="steam://run/299740/connect/+connect 31.204.131.13 64280" title="Join Testserver" %}
 
 ## Teaser
 {% include youtube.html id="im9fo3-YqbU" %}
