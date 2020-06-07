@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Battle Royale - Miscreated Mod
 description: Battle Royale modification for the Miscreated game (Update 11)
-show_downloads: "false"
+show_downloads: false
+github.is_project_page: false
