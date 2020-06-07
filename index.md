@@ -8,6 +8,9 @@ Feel free to jump into a test server, the mod will be automatically downloaded.
 
 [Test serverjoin](steam://run/299740/connect/+connect 31.204.131.13 64280)
 
+## Teaser
+{% include youtube.html id="im9fo3-YqbU" %}
+
 ## Help
 Custom keys:
 * ´~´(tilde) open the br menu/stats screen/map you press 
