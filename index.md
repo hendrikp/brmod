@@ -16,7 +16,7 @@ Feel free to jump into a test server, the mod will be automatically downloaded.
 UI
 * Minimap and Compass is automatically on the screen
 * HUD for Stimpack and shield is at bottom
-* ``~`` (tilde) open the BR menu/stats screen/map
+* ``~`` (tilde) open the BR menu/stats screen/map (``^`` - on some key-layouts e.g. german)
 
 Additional keys:
 * ``8`` put on the armor
