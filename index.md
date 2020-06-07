@@ -14,9 +14,9 @@ Feel free to jump into a test server, the mod will be automatically downloaded.
 
 ## Help
 Custom keys:
-* ´~´(tilde) open the br menu/stats screen/map you press 
-* ´8´ put on armor it is the number 8
-* ´7´ use a stimpack it is the number 7
+* ``~`` (tilde) open the br menu/stats screen/map you press 
+* ``8`` put on armor it is the number 8
+* ``7`` use a stimpack it is the number 7
 
 There are three tiers of weapons:
 * Green Tier - The lowest tier of weapons, has increased recoil and can have no attachments at all (except magazines since they are technically attachments)
