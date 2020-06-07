@@ -1,4 +1,5 @@
 ---
+layout: start
 title: Battle Royale - Miscreated Mod
 ---
 
