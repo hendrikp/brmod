@@ -9,3 +9,15 @@
     border-color: rgba(0,0,0,0.2);
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 }
+
+.btn.content:hover {
+    color: rgba(21, 87, 153, 0.7);
+    border-color: rgba(21, 87, 153, 0.2);
+    transition: color 0.2s, border-color 0.2s;
+}
+
+.btn.content:active {
+    color: rgba(21, 153, 87, 0.7);
+    border-color: rgba(21, 153, 87, 0.2);
+    transition: color 0.2s, border-color 0.2s;
+}
