@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Battle Royale - Miscreated Mod
 ---
 
