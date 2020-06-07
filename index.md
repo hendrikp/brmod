@@ -11,6 +11,8 @@ Feel free to jump into a test server, the mod will be automatically downloaded:
 
 {% include button.html url="steam://run/299740/connect/+connect 69.30.216.13 65090" title="Theros BR-Testserver (Whitelisted)" %}
 
+{% include button.html url="steam://run/299740/connect/+connect 104.36.123.71 65090" title="Spafbis BR-Testserver (Whitelisted)" %}
+
 ## Teaser
 {% include youtube.html id="im9fo3-YqbU" %}
 
