@@ -3,15 +3,8 @@ layout: start
 title: Battle Royale - Miscreated Mod
 ---
 
-## Welcome
-Feel free to jump into server, the mod will be automatically downloaded:
-
-{% include button.html url="steam://run/299740/connect/+connect 23.247.22.123 64090" title="US - LA 1 Theros" %}
-{% include button.html url="steam://run/299740/connect/+connect 104.36.123.71 64095" title="US - Spafbi" %}
-{% include button.html url="steam://run/299740/connect/+connect 213.32.7.173 64390" title="France - NationZ" %}
-{% include button.html url="steam://run/299740/connect/+connect 104.36.123.71 64090" title="US - Cuartas Test Server" %}
-
 ## Serverlist
+Feel free to jump into a server, the mod will be automatically downloaded:
 {% include serverlist.html map="battleroyale" %}
 
 ## Teaser
